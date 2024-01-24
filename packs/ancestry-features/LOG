@@ -1,0 +1,8 @@
+2024/01/16-14:01:35.504 b2c Recovering log #16
+2024/01/16-14:01:35.583 b2c Delete type=0 #16
+2024/01/16-14:01:35.583 b2c Delete type=3 #14
+2024/01/16-14:03:20.133 1080 Level-0 table #21: started
+2024/01/16-14:03:20.133 1080 Level-0 table #21: 0 bytes OK
+2024/01/16-14:03:20.175 1080 Delete type=0 #19
+2024/01/16-14:03:20.175 1080 Manual compaction at level-0 from '!folders!4Cy9ngF0tAoLuDT0' @ 72057594037927935 : 1 .. '!items!xGpVsGpgmls4xGAW' @ 0 : 0; will stop at (end)
+2024/01/16-14:03:20.175 1080 Manual compaction at level-1 from '!folders!4Cy9ngF0tAoLuDT0' @ 72057594037927935 : 1 .. '!items!xGpVsGpgmls4xGAW' @ 0 : 0; will stop at (end)
