@@ -1,8 +1,0 @@
-2024/01/13-16:29:00.474 3b3c Recovering log #4
-2024/01/13-16:29:00.562 3b3c Delete type=0 #4
-2024/01/13-16:29:00.562 3b3c Delete type=3 #2
-2024/01/13-16:29:55.265 1bac Level-0 table #9: started
-2024/01/13-16:29:55.265 1bac Level-0 table #9: 0 bytes OK
-2024/01/13-16:29:55.296 1bac Delete type=0 #7
-2024/01/13-16:29:55.296 1bac Manual compaction at level-0 from '!items!KAFCX2BdXwLa2k7e' @ 72057594037927935 : 1 .. '!items!ZzQ9A53Zbx1xVZqV' @ 0 : 0; will stop at (end)
-2024/01/13-16:29:55.296 1bac Manual compaction at level-1 from '!items!KAFCX2BdXwLa2k7e' @ 72057594037927935 : 1 .. '!items!ZzQ9A53Zbx1xVZqV' @ 0 : 0; will stop at (end)
