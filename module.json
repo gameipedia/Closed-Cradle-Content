@@ -1,6 +1,6 @@
 {
   "id": "closed-cradle-shared",
-  "manifest": "https://raw.githubusercontent.com/gameipedia/Closed-Cradle-Content/main/module.json",
+  "manifest": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.0.0/module.json",
   "download": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.0.0/closed-cradle-shared.zip",
   "title": "Closed Cradle Shared",
   "version": "1.0.0",
