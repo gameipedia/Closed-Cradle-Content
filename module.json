@@ -103,7 +103,7 @@
         "ASSISTANT": "OWNER"
       }
     }
-    },
+    ],
   "relationships": {
     "systems": [
       {
