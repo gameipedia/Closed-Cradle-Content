@@ -6,6 +6,10 @@
     "minimum": "11",
     "verified": "11"
   },
+"packFolders": [
+"name": "Closed Cradle",
+"sorting": "a", 
+"color": "#007046",		
   "packs": [
     {
       "name": "classes",
@@ -95,6 +99,7 @@
         "ASSISTANT": "OWNER"
       }
     }
+  ],
   ],
   "relationships": {
     "systems": [
