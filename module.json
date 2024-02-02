@@ -11,7 +11,7 @@
 "name": "Closed Cradle",
 "sorting": "a", 
 "color": "#007046",		
-"packs": ["classes", "class-features", "class-feats", "ancestries", "ancestry-feats", "ancestry-features", "equipment", "heritages"]
+"packs": ["ancestries", "ancestry-feats", "ancestry-features", "classes", "class-features", "class-feats", "equipment", "heritages"]
     }
 ],
     "packs": [
