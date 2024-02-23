@@ -1,6 +1,9 @@
-V 1.0.0 of Closed Cradle add-on Module for Pathfinder 2e via Foundry 
+V 1.1.0 of Closed Cradle add-on Module for Pathfinder 2e via Foundry 
 
-Current Contents:
+1.1.0
+Cleric Choir Singer and Necromancer Doctrines, Investigator Black Powder Persuasion, Arcane Analysis, and Patroned Practitioner Methodologies
+
+1.0.0
 Enlightened Aesthetic Ancestry and relevant Features, Feats, and Heritages
 Kulu Ancestry and relevant Features and Feats
 Ritualist Class and relevant Features and Feats
