@@ -119,7 +119,8 @@
     "systems": [
       {
         "id": "pf2e",
-        "type": "system"
+        "type": "system", 
+	"compatibility": {}
       }
     ]
   },
