@@ -1,7 +1,7 @@
 {
   "id": "closed-cradle-shared",
   "title": "Closed Cradle Shared",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
