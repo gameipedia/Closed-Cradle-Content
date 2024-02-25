@@ -1,4 +1,7 @@
-V 1.1.0 of Closed Cradle add-on Module for Pathfinder 2e via Foundry 
+V 1.2.0 of Closed Cradle add-on Module for Pathfinder 2e via Foundry 
+
+1.2.0
+Mechanist Class and relevant Features, Feats, and Items
 
 1.1.0
 Cleric Choir Singer and Necromancer Doctrines, Investigator Black Powder Persuasion, Arcane Analysis, and Patroned Practitioner Methodologies
