@@ -1,0 +1,5 @@
+2024/02/25-16:32:46.595 4fe8 Recovering log #149
+2024/02/25-16:32:46.599 4fe8 Level-0 table #153: started
+2024/02/25-16:32:46.706 4fe8 Level-0 table #153: 603488 bytes OK
+2024/02/25-16:32:46.786 4fe8 Delete type=0 #149
+2024/02/25-16:32:46.786 4fe8 Delete type=3 #147
