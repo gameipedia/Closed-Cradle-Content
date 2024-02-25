@@ -102,6 +102,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+ },
+	{
+      "name": "vehicles",
+      "label": "Vehicles",
+      "path": "packs/vehicles",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
     ],
   "relationships": {
