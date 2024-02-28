@@ -1,7 +1,7 @@
 {
   "id": "closed-cradle-shared",
   "title": "Closed Cradle Shared",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -11,7 +11,7 @@
 "name": "Closed Cradle",
 "sorting": "a", 
 "color": "#007046",		
-"packs": ["ancestries", "ancestry-feats", "ancestry-features", "classes", "class-features", "class-feats", "equipment", "heritages", "vehicles"]
+"packs": ["ancestries", "ancestry-feats", "ancestry-features", "classes", "class-features", "class-feats", "deities", "equipment", "heritages", "vehicles"]
     }
 ],
     "packs": [
@@ -113,7 +113,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
-    }
+    },
+	{
+ 	"name": "deities",
+      "label": "Deities",
+      "path": "packs/deities",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+	}
     ],
   "relationships": {
     "systems": [
@@ -130,6 +140,6 @@
       "discord": "gameipedia"
     }
   ], 
-   "manifest": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.4.0/module.json",
-  "download": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.4.0/closed-cradle-shared.zip"
+   "manifest": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.5.0/module.json",
+  "download": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.5.0/closed-cradle-shared.zip"
 }  
