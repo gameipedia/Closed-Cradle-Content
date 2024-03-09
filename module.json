@@ -1,30 +1,43 @@
 {
   "id": "closed-cradle-shared",
   "title": "Closed Cradle Shared",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-"packFolders":[
-{
-"name": "Closed Cradle",
-"sorting": "a", 
-"color": "#007046",		
-"packs": ["ancestries", "ancestry-feats", "ancestry-features", "classes", "class-features", "class-feats", "deities", "equipment", "heritages", "vehicles"]
+  "packFolders": [
+    {
+      "name": "Closed Cradle",
+      "sorting": "a",
+      "color": "#007046",
+      "packs": [
+        "ancestries",
+        "ancestry-feats",
+        "ancestry-features",
+        "classes",
+        "class-features",
+        "class-feats",
+	"deities",
+        "equipment",
+        "heritages",
+        "vehicles"
+      ],
+      "folders": []
     }
-],
-    "packs": [
+  ],
+  "packs": [
     {
       "name": "classes",
       "label": "Classes",
       "path": "packs/classes",
       "type": "Item",
-      "system": "pf2e",	
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "class-features",
@@ -35,7 +48,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "class-feats",
@@ -46,7 +60,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "ancestries",
@@ -57,7 +72,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "ancestry-features",
@@ -68,7 +84,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "ancestry-feats",
@@ -79,7 +96,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "equipment",
@@ -90,7 +108,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "heritages",
@@ -101,9 +120,10 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-	}
       },
-	{
+      "flags": {}
+    },
+    {
       "name": "vehicles",
       "label": "Vehicles",
       "path": "packs/vehicles",
@@ -112,10 +132,10 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
-	{
- 	"name": "deities",
+{ "name": "deities",
       "label": "Deities",
       "path": "packs/deities",
       "type": "Item",
@@ -123,13 +143,14 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-	}}
-    ],
+}}
+  ],
   "relationships": {
     "systems": [
       {
         "id": "pf2e",
-        "type": "system"
+        "type": "system",
+        "compatibility": {}
       }
     ]
   },
@@ -137,9 +158,10 @@
   "authors": [
     {
       "name": "gameipedia",
-      "discord": "gameipedia"
+      "discord": "gameipedia",
+      "flags": {}
     }
-  ], 
-   "manifest": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.5.0/module.json",
-  "download": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.5.0/closed-cradle-shared.zip"
-}  
+  ],
+  "manifest": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.6.0/module.json",
+  "download": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.6.0/closed-cradle-shared.zip"
+}
