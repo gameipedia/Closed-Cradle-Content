@@ -1,10 +1,10 @@
 {
   "id": "closed-cradle-shared",
   "title": "Closed Cradle Shared",
-  "version": "1.6.0",
+  "version": "1.6.5",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "packFolders": [
     {
@@ -162,6 +162,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.6.0/module.json",
-  "download": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.6.0/closed-cradle-shared.zip"
+  "manifest": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.6.5/module.json",
+  "download": "https://github.com/gameipedia/Closed-Cradle-Content/releases/download/1.6.5/closed-cradle-shared.zip"
 }
