@@ -145,7 +145,7 @@
         "ASSISTANT": "OWNER"
 }}],
 "flags":{
-"Closed Cradle Shared":{
+"closed-cradle-shared":{
  "pf2e-homebrew":{
 	"languages":{
 	"jadeian":"Jadeian", "kufu":"Kufu", "puranii":"Puranii", "wu":"Wu", "suti":"Suti", "evergreen":"Evergreen", "versh":"Versh", "caphara":"Caphara", "crystalian":"Crystalian"
