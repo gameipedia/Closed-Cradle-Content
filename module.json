@@ -143,7 +143,38 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-}}
+}},
+	"flags":{
+"closed-cradle-shared":{
+ "pf2e-homebrew":{
+	"languages":{
+	"Jadeian", "Kufu", "Puranii", "Wu", "Suti", "Evergreen", "Versh", "Caphara", "Crystalian"
+	},
+	"weaponCategories":{
+	"Mech"
+	},
+	"weaponGroups":{
+	"Mech"
+	},
+	"baseWeapons":{
+	"Mech", "Spiritblade"
+	},
+	"creatureTraits":{
+	"Kufu", "Enlightened Aesthetic", "Puranii"
+	},
+	"featTraits":{
+	"Kufu", "Enlightened Aesthetic", "Puranii", "Mechanist", "Ritualist", "Spiritblade"
+	},
+	"spellTraits":{
+	"Mechanist", "Tech", "Basic", "Advanced", "Improved", "H&G", "GFW", "KHK", "MMF", "SCC"
+	},
+	"weaponTraits":{
+	"Kufu", "Ranged Grapple", "Basic", "Advanced", "Improved", "H&G", "GFW", "KHK", "MMF", "SCC", 
+	"Multishot", "Multihit", "Blocking", "Conduit", "Charging", "Bleeding"
+	},
+	"equipmentTraits":{
+	"Mech", "Tech", "Basic", "Advanced", "Improved", "H&G", "GFW", "KHK", "MMF", "SCC"
+	}}
   ],
   "relationships": {
     "systems": [
