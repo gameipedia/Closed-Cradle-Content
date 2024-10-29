@@ -143,8 +143,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-}}]
-	"flags":{
+}}],
+"flags":{
 "closed-cradle-shared":{
  "pf2e-homebrew":{
 	"languages":{
@@ -174,7 +174,7 @@
 	},
 	"equipmentTraits":{
 	"Mech", "Tech", "Basic", "Advanced", "Improved", "H&G", "GFW", "KHK", "MMF", "SCC"
-	}},
+	}}}},
   "relationships": {
     "systems": [
       {
