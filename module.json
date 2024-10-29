@@ -148,33 +148,34 @@
 "Closed Cradle Shared":{
  "pf2e-homebrew":{
 	"languages":{
-	"Jadeian", "Kufu", "Puranii", "Wu", "Suti", "Evergreen", "Versh", "Caphara", "Crystalian"
+	"jadeian":"Jadeian", "kufu":"Kufu", "puranii":"Puranii", "wu":"Wu", "suti":"Suti", "evergreen":"Evergreen", "versh":"Versh", "caphara":"Caphara", "crystalian":"Crystalian"
 	},
 	"weaponCategories":{
-	"Mech"
+	"mech":"Mech"
 	},
 	"weaponGroups":{
-	"Mech"
+	"mech":"Mech"
 	},
 	"baseWeapons":{
-	"Mech", "Spiritblade"
+	"mech":"Mech", "spiritblade":"Spiritblade"
 	},
 	"creatureTraits":{
-	"Kufu", "Enlightened Aesthetic", "Puranii"
+	"kufu":"Kufu", "enlightened aesthetic":"Enlightened Aesthetic", "puranii":"Puranii"
 	},
 	"featTraits":{
-	"Kufu", "Enlightened Aesthetic", "Puranii", "Mechanist", "Ritualist", "Spiritblade"
+	"kufu":"Kufu", "enlightened aesthetic":"Enlightened Aesthetic", "puranii":"Puranii", "mechanist":"Mechanist", "ritualist":"Ritualist", "spiritblade":"Spiritblade"
 	},
 	"spellTraits":{
-	"Mechanist", "Tech", "Basic", "Advanced", "Improved", "H&G", "GFW", "KHK", "MMF", "SCC"
+	"mechanist":"Mechanist", "tech":"Tech", "basic":"Basic", "advanced":"Advanced", "improved":"Improved", "h&g":"H&G", "gfw":"GFW", "khk":"KHK", "mmf":"MMF", "scc":"SCC"
 	},
 	"weaponTraits":{
-	"Kufu", "Ranged Grapple", "Basic", "Advanced", "Improved", "H&G", "GFW", "KHK", "MMF", "SCC", 
-	"Multishot", "Multihit", "Blocking", "Conduit", "Charging", "Bleeding"
+	"kufu":"Kufu","ranged grapple":"Ranged Grapple", "basic":"Basic", "advanced":"Advanced", "improved":"Improved", "h&g":"H&G", "gfw":"GFW", "khk":"KHK", "mmf":"MMF", "scc":"SCC", 
+	"multishot":"Multishot", "multihit":"Multihit", "blocking":"Blocking", "conduit":"Conduit", "charging":"Charging", "bleeding":"Bleeding"
 	},
 	"equipmentTraits":{
-	"Mech", "Tech", "Basic", "Advanced", "Improved", "H&G", "GFW", "KHK", "MMF", "SCC"
-	}}}},
+	"mech":"Mech", "tech":"Tech", "basic":"Basic", "advanced":"Advanced", "improved":"Improved", "h&g":"H&G", "gfw":"GFW", "khk":"KHK", "mmf":"MMF", "scc":"SCC"
+	}
+ 	}}},
   "relationships": {
     "systems": [
       {
